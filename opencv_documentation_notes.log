@@ -1,9 +1,10 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Arch Linux) (preloaded format=pdflatex 2019.7.17)  11 AUG 2019 16:59
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Arch Linux) (preloaded format=pdflatex 2019.7.17)  20 AUG 2019 21:03
 entering extended mode
  restricted \write18 enabled.
+ file:line:error style messages enabled.
  %&-line parsing enabled.
-**/home/michael/Documents/Notes/OpenCV/opencv_documentation_notes
-(/home/michael/Documents/Notes/OpenCV/opencv_documentation_notes.tex
+**opencv_documentation_notes.tex
+(./opencv_documentation_notes.tex
 LaTeX2e <2018-12-01>
 (/usr/share/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2018/09/03 v1.4i Standard LaTeX document class
@@ -21,60 +22,44 @@ File: size10.clo 2018/09/03 v1.4i Standard LaTeX file (size option)
 \abovecaptionskip=\skip41
 \belowcaptionskip=\skip42
 \bibindent=\dimen102
-)
-(/usr/share/texmf-dist/tex/latex/biblatex/biblatex.sty
+) (/usr/share/texmf-dist/tex/latex/biblatex/biblatex.sty
 Package: biblatex 2018/11/02 v3.12 programmable bibliographies (PK/MW)
-
-(/usr/share/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
-Package: pdftexcmds 2018/09/10 v0.29 Utility functions of pdfTeX for LuaTeX (HO
-)
-
-(/usr/share/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+ (/usr/share/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2018/09/10 v0.29 Utility functions of pdfTeX for LuaTeX (HO)
+ (/usr/share/texmf-dist/tex/generic/oberdiek/infwarerr.sty
 Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
-)
-(/usr/share/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+) (/usr/share/texmf-dist/tex/generic/oberdiek/ifluatex.sty
 Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
 Package ifluatex Info: LuaTeX not detected.
-)
-(/usr/share/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+) (/usr/share/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
 Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
-)
-(/usr/share/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+) (/usr/share/texmf-dist/tex/generic/oberdiek/ifpdf.sty
 Package: ifpdf 2018/09/07 v3.3 Provides the ifpdf switch
 )
 Package pdftexcmds Info: LuaTeX not detected.
 Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
 Package pdftexcmds Info: \pdfdraftmode found.
-)
-(/usr/share/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+) (/usr/share/texmf-dist/tex/latex/etoolbox/etoolbox.sty
 Package: etoolbox 2018/08/19 v2.5f e-TeX tools for LaTeX (JAW)
 \etb@tempcnta=\count88
-)
-(/usr/share/texmf-dist/tex/latex/graphics/keyval.sty
+) (/usr/share/texmf-dist/tex/latex/graphics/keyval.sty
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \KV@toks@=\toks14
-)
-(/usr/share/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+) (/usr/share/texmf-dist/tex/latex/oberdiek/kvoptions.sty
 Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
-
-(/usr/share/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+ (/usr/share/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
 Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
-
-(/usr/share/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+ (/usr/share/texmf-dist/tex/generic/oberdiek/etexcmds.sty
 Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
-)))
-(/usr/share/texmf-dist/tex/latex/logreq/logreq.sty
+))) (/usr/share/texmf-dist/tex/latex/logreq/logreq.sty
 Package: logreq 2010/08/04 v1.0 xml request logger
 \lrq@indent=\count89
-
-(/usr/share/texmf-dist/tex/latex/logreq/logreq.def
+ (/usr/share/texmf-dist/tex/latex/logreq/logreq.def
 File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
-))
-(/usr/share/texmf-dist/tex/latex/base/ifthen.sty
+)) (/usr/share/texmf-dist/tex/latex/base/ifthen.sty
 Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
-)
-(/usr/share/texmf-dist/tex/latex/url/url.sty
+) (/usr/share/texmf-dist/tex/latex/url/url.sty
 \Urlmuskip=\muskip10
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
@@ -134,8 +119,7 @@ Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 \c@mincompwidth=\count133
 Package biblatex Info: Trying to load biblatex default data model...
 Package biblatex Info: ... file 'blx-dm.def' found.
-
-(/usr/share/texmf-dist/tex/latex/biblatex/blx-dm.def
+ (/usr/share/texmf-dist/tex/latex/biblatex/blx-dm.def
 File: blx-dm.def 2018/11/02 v3.12 biblatex localization (PK/MW)
 )
 Package biblatex Info: Trying to load biblatex custom data model...
@@ -224,14 +208,12 @@ Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
 \localshorteditorwidth=\skip64
 Package biblatex Info: Trying to load compatibility code...
 Package biblatex Info: ... file 'blx-compat.def' found.
-
-(/usr/share/texmf-dist/tex/latex/biblatex/blx-compat.def
+ (/usr/share/texmf-dist/tex/latex/biblatex/blx-compat.def
 File: blx-compat.def 2018/11/02 v3.12 biblatex compatibility (PK/MW)
 )
 Package biblatex Info: Trying to load generic definitions...
 Package biblatex Info: ... file 'biblatex.def' found.
-
-(/usr/share/texmf-dist/tex/latex/biblatex/biblatex.def
+ (/usr/share/texmf-dist/tex/latex/biblatex/biblatex.def
 File: biblatex.def 2018/11/02 v3.12 biblatex compatibility (PK/MW)
 \c@textcitecount=\count268
 \c@textcitetotal=\count269
@@ -243,21 +225,18 @@ File: biblatex.def 2018/11/02 v3.12 biblatex compatibility (PK/MW)
 )
 Package biblatex Info: Trying to load bibliography style 'numeric'...
 Package biblatex Info: ... file 'numeric.bbx' found.
-
-(/usr/share/texmf-dist/tex/latex/biblatex/bbx/numeric.bbx
+ (/usr/share/texmf-dist/tex/latex/biblatex/bbx/numeric.bbx
 File: numeric.bbx 2018/11/02 v3.12 biblatex bibliography style (PK/MW)
 Package biblatex Info: Trying to load bibliography style 'standard'...
 Package biblatex Info: ... file 'standard.bbx' found.
-
-(/usr/share/texmf-dist/tex/latex/biblatex/bbx/standard.bbx
+ (/usr/share/texmf-dist/tex/latex/biblatex/bbx/standard.bbx
 File: standard.bbx 2018/11/02 v3.12 biblatex bibliography style (PK/MW)
 \c@bbx:relatedcount=\count275
 \c@bbx:relatedtotal=\count276
 ))
 Package biblatex Info: Trying to load citation style 'numeric'...
 Package biblatex Info: ... file 'numeric.cbx' found.
-
-(/usr/share/texmf-dist/tex/latex/biblatex/cbx/numeric.cbx
+ (/usr/share/texmf-dist/tex/latex/biblatex/cbx/numeric.cbx
 File: numeric.cbx 2018/11/02 v3.12 biblatex citation style (PK/MW)
 Package biblatex Info: Redefining '\cite'.
 Package biblatex Info: Redefining '\parencite'.
@@ -273,11 +252,9 @@ Package biblatex Info: Redefining '\smartcites'.
 )
 Package biblatex Info: Trying to load configuration file...
 Package biblatex Info: ... file 'biblatex.cfg' found.
-
-(/usr/share/texmf-dist/tex/latex/biblatex/biblatex.cfg
+ (/usr/share/texmf-dist/tex/latex/biblatex/biblatex.cfg
 File: biblatex.cfg 
-))
-(/usr/share/texmf-dist/tex/latex/listings/listings.sty
+)) (/usr/share/texmf-dist/tex/latex/listings/listings.sty
 \lst@mode=\count277
 \lst@gtempboxa=\box27
 \lst@token=\toks15
@@ -290,27 +267,22 @@ File: biblatex.cfg
 \lst@newlines=\count281
 \lst@lineno=\count282
 \lst@maxwidth=\dimen106
-
-(/usr/share/texmf-dist/tex/latex/listings/lstmisc.sty
+ (/usr/share/texmf-dist/tex/latex/listings/lstmisc.sty
 File: lstmisc.sty 2019/02/27 1.8b (Carsten Heinz)
 \c@lstnumber=\count283
 \lst@skipnumbers=\count284
 \lst@framebox=\box28
-)
-(/usr/share/texmf-dist/tex/latex/listings/listings.cfg
+) (/usr/share/texmf-dist/tex/latex/listings/listings.cfg
 File: listings.cfg 2019/02/27 1.8b listings configuration
 ))
 Package: listings 2019/02/27 1.8b (Carsten Heinz)
-
-(/usr/share/texmf-dist/tex/latex/xcolor/xcolor.sty
+ (/usr/share/texmf-dist/tex/latex/xcolor/xcolor.sty
 Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
-
-(/usr/share/texmf-dist/tex/latex/graphics-cfg/color.cfg
+ (/usr/share/texmf-dist/tex/latex/graphics-cfg/color.cfg
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package xcolor Info: Driver file: pdftex.def on input line 225.
-
-(/usr/share/texmf-dist/tex/latex/graphics-def/pdftex.def
+ (/usr/share/texmf-dist/tex/latex/graphics-def/pdftex.def
 File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
 )
 Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
@@ -322,8 +294,7 @@ Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
 Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
 Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
-)
-(/usr/share/texmf-dist/tex/latex/amscls/amsthm.sty
+) (/usr/share/texmf-dist/tex/latex/amscls/amsthm.sty
 Package: amsthm 2017/10/31 v2.20.4
 \thm@style=\toks16
 \thm@bodyfont=\toks17
@@ -334,25 +305,21 @@ Package: amsthm 2017/10/31 v2.20.4
 \thm@postskip=\skip66
 \thm@headsep=\skip67
 \dth@everypar=\toks21
-)
-(/usr/share/texmf-dist/tex/latex/amsmath/amsmath.sty
+) (/usr/share/texmf-dist/tex/latex/amsmath/amsmath.sty
 Package: amsmath 2018/12/01 v2.17b AMS math features
 \@mathmargin=\skip68
 
 For additional information on amsmath, use the `?' option.
 (/usr/share/texmf-dist/tex/latex/amsmath/amstext.sty
 Package: amstext 2000/06/29 v2.01 AMS text
-
-(/usr/share/texmf-dist/tex/latex/amsmath/amsgen.sty
+ (/usr/share/texmf-dist/tex/latex/amsmath/amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0 generic functions
 \@emptytoks=\toks22
 \ex@=\dimen107
-))
-(/usr/share/texmf-dist/tex/latex/amsmath/amsbsy.sty
+)) (/usr/share/texmf-dist/tex/latex/amsmath/amsbsy.sty
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
 \pmbraise@=\dimen108
-)
-(/usr/share/texmf-dist/tex/latex/amsmath/amsopn.sty
+) (/usr/share/texmf-dist/tex/latex/amsmath/amsopn.sty
 Package: amsopn 2016/03/08 v2.02 operator names
 )
 \inf@bad=\count285
@@ -392,18 +359,15 @@ LaTeX Font Info:    Redeclaring font encoding OMS on input line 730.
 \mathdisplay@stack=\toks26
 LaTeX Info: Redefining \[ on input line 2844.
 LaTeX Info: Redefining \] on input line 2845.
-)
-(/usr/share/texmf-dist/tex/latex/amsfonts/amssymb.sty
+) (/usr/share/texmf-dist/tex/latex/amsfonts/amssymb.sty
 Package: amssymb 2013/01/14 v3.01 AMS font symbols
-
-(/usr/share/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+ (/usr/share/texmf-dist/tex/latex/amsfonts/amsfonts.sty
 Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
 \symAMSa=\mathgroup4
 \symAMSb=\mathgroup5
 LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
-))
-(/usr/share/texmf-dist/tex/latex/tools/array.sty
+)) (/usr/share/texmf-dist/tex/latex/tools/array.sty
 Package: array 2018/12/30 v2.4k Tabular extension package (FMi)
 \col@sep=\dimen116
 \ar@mcellbox=\box31
@@ -412,33 +376,27 @@ Package: array 2018/12/30 v2.4k Tabular extension package (FMi)
 \extratabsurround=\skip71
 \backup@length=\skip72
 \ar@cellbox=\box32
-)
-(/usr/share/texmf-dist/tex/latex/graphics/graphicx.sty
+) (/usr/share/texmf-dist/tex/latex/graphics/graphicx.sty
 Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
-
-(/usr/share/texmf-dist/tex/latex/graphics/graphics.sty
+ (/usr/share/texmf-dist/tex/latex/graphics/graphics.sty
 Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
-
-(/usr/share/texmf-dist/tex/latex/graphics/trig.sty
+ (/usr/share/texmf-dist/tex/latex/graphics/trig.sty
 Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
-)
-(/usr/share/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+) (/usr/share/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: pdftex.def on input line 99.
 )
 \Gin@req@height=\dimen118
 \Gin@req@width=\dimen119
-)
-(/usr/share/texmf-dist/tex/latex/float/float.sty
+) (/usr/share/texmf-dist/tex/latex/float/float.sty
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \c@float@type=\count297
 \float@exts=\toks28
 \float@box=\box33
 \@float@everytoks=\toks29
 \@floatcapt=\box34
-)
-(/usr/share/texmf-dist/tex/latex/enumitem/enumitem.sty
+) (/usr/share/texmf-dist/tex/latex/enumitem/enumitem.sty
 Package: enumitem 2019/02/04 v3.8 Customized lists
 \labelindent=\skip73
 \enit@outerparindent=\dimen120
@@ -451,14 +409,12 @@ Package: enumitem 2019/02/04 v3.8 Customized lists
 \c@ex=\count301
 Package biblatex Info: Trying to load language 'english'...
 Package biblatex Info: ... file 'english.lbx' found.
-
-(/usr/share/texmf-dist/tex/latex/biblatex/lbx/english.lbx
+ (/usr/share/texmf-dist/tex/latex/biblatex/lbx/english.lbx
 File: english.lbx 2018/11/02 v3.12 biblatex localization (PK/MW)
 )
 \@quotelevel=\count302
 \@quotereset=\count303
-
-(/home/michael/Documents/Notes/OpenCV/opencv_documentation_notes.aux
+ (./opencv_documentation_notes.aux
 
 LaTeX Warning: Label `table:ocv_vca_props' multiply defined.
 
@@ -487,12 +443,11 @@ Package biblatex Info: Automatic encoding selection.
 
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'opencv_documentation_notes.bbl' found.
- (/home/michael/Documents/Notes/OpenCV/opencv_documentation_notes.bbl)
+ (./opencv_documentation_notes.bbl)
 Package biblatex Info: Reference section=0 on input line 60.
 Package biblatex Info: Reference segment=0 on input line 60.
 \c@lstlisting=\count304
-
-(/usr/share/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+ (/usr/share/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count305
 \scratchdimen=\dimen121
@@ -507,48 +462,36 @@ Package biblatex Info: Reference segment=0 on input line 60.
 \everyMPtoPDFconversion=\toks32
 ) (/usr/share/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
 Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
-
-(/usr/share/texmf-dist/tex/latex/oberdiek/grfext.sty
+ (/usr/share/texmf-dist/tex/latex/oberdiek/grfext.sty
 Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
-
-(/usr/share/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+ (/usr/share/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
 Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
 ))
-Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
-38.
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 438.
 Package grfext Info: Graphics extension search list:
-(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
-G,.JBIG2,.JB2,.eps]
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps]
 (grfext)             \AppendGraphicsExtensions on input line 456.
-
-(/usr/share/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
-File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
-e
+ (/usr/share/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 ))
 LaTeX Font Info:    Try loading font information for U+msa on input line 65.
-
-(/usr/share/texmf-dist/tex/latex/amsfonts/umsa.fd
+ (/usr/share/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
 LaTeX Font Info:    Try loading font information for U+msb on input line 65.
-
-(/usr/share/texmf-dist/tex/latex/amsfonts/umsb.fd
+ (/usr/share/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-)
-(/home/michael/Documents/Notes/OpenCV/opencv_documentation_notes.toc [1
+) (./opencv_documentation_notes.toc [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}])
 \tf@toc=\write4
 \openout4 = `opencv_documentation_notes.toc'.
 
- [2]
-(/usr/share/texmf-dist/tex/latex/listings/lstlang1.sty
+ [2] (/usr/share/texmf-dist/tex/latex/listings/lstlang1.sty
 File: lstlang1.sty 2019/02/27 1.8b listings language file
-)
-(/usr/share/texmf-dist/tex/latex/listings/lstlang1.sty
+) (/usr/share/texmf-dist/tex/latex/listings/lstlang1.sty
 File: lstlang1.sty 2019/02/27 1.8b listings language file
-)
-(/usr/share/texmf-dist/tex/latex/listings/lstlang1.sty
+) (/usr/share/texmf-dist/tex/latex/listings/lstlang1.sty
 File: lstlang1.sty 2019/02/27 1.8b listings language file
 ) [3]
 Underfull \hbox (badness 10000) in paragraph at lines 194--196
@@ -567,8 +510,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 200--202
 
 
 Overfull \hbox (4.64594pt too wide) in paragraph at lines 251--252
-[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
-][][][][][][][][][][][][][]
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]
  []
 
 [5] [6] [7]
@@ -620,8 +562,7 @@ Overfull \hbox (32.43304pt too wide) in paragraph at lines 959--971
 <./images/matplotlib_figure_anatomy.png, id=75, 803.0pt x 803.0pt>
 File: ./images/matplotlib_figure_anatomy.png Graphic file (type png)
 <use ./images/matplotlib_figure_anatomy.png>
-Package pdftex.def Info: ./images/matplotlib_figure_anatomy.png  used on input 
-line 1022.
+Package pdftex.def Info: ./images/matplotlib_figure_anatomy.png  used on input line 1022.
 (pdftex.def)             Requested size: 345.0pt x 345.00146pt.
  [21 <./images/matplotlib_figure_anatomy.png>] [22
 
@@ -629,8 +570,7 @@ line 1022.
 <./images/matplotlib_simple_plot.png, id=82, 462.528pt x 346.896pt>
 File: ./images/matplotlib_simple_plot.png Graphic file (type png)
 <use ./images/matplotlib_simple_plot.png>
-Package pdftex.def Info: ./images/matplotlib_simple_plot.png  used on input lin
-e 1068.
+Package pdftex.def Info: ./images/matplotlib_simple_plot.png  used on input line 1068.
 (pdftex.def)             Requested size: 172.5pt x 129.37639pt.
 
 
@@ -650,21 +590,18 @@ LaTeX Warning: Text page 24 contains only floats.
 <./images/matplotlib_magenta_markers.png, id=91, 462.528pt x 346.896pt>
 File: ./images/matplotlib_magenta_markers.png Graphic file (type png)
 <use ./images/matplotlib_magenta_markers.png>
-Package pdftex.def Info: ./images/matplotlib_magenta_markers.png  used on input
- line 1185.
+Package pdftex.def Info: ./images/matplotlib_magenta_markers.png  used on input line 1185.
 (pdftex.def)             Requested size: 172.5pt x 129.37639pt.
  [25 <./images/matplotlib_magenta_markers.png>]
 <./images/matplotlib_using_kwdata.png, id=97, 462.528pt x 346.896pt>
 File: ./images/matplotlib_using_kwdata.png Graphic file (type png)
 <use ./images/matplotlib_using_kwdata.png>
-Package pdftex.def Info: ./images/matplotlib_using_kwdata.png  used on input li
-ne 1232.
+Package pdftex.def Info: ./images/matplotlib_using_kwdata.png  used on input line 1232.
 (pdftex.def)             Requested size: 172.5pt x 129.37639pt.
 <./images/matplotlib_cat_vars.png, id=98, 650.43pt x 216.81pt>
 File: ./images/matplotlib_cat_vars.png Graphic file (type png)
 <use ./images/matplotlib_cat_vars.png>
-Package pdftex.def Info: ./images/matplotlib_cat_vars.png  used on input line 1
-266.
+Package pdftex.def Info: ./images/matplotlib_cat_vars.png  used on input line 1266.
 (pdftex.def)             Requested size: 345.0pt x 115.00137pt.
 
 
@@ -672,8 +609,7 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 
 [26 <./images/matplotlib_using_kwdata.png>]
 Overfull \hbox (1.83125pt too wide) in paragraph at lines 1287--1288
-[]\OT1/cmr/m/it/10 Note. []\OT1/cmr/m/n/10 Takes other pa-ram-e-ters such as: [
-][][][][][][]
+[]\OT1/cmr/m/it/10 Note. []\OT1/cmr/m/n/10 Takes other pa-ram-e-ters such as: [][][][][][][]
  []
 
 
@@ -716,8 +652,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 1399--1400
 <./images/matplotlib_annotating_plots.png, id=110, 462.528pt x 346.896pt>
 File: ./images/matplotlib_annotating_plots.png Graphic file (type png)
 <use ./images/matplotlib_annotating_plots.png>
-Package pdftex.def Info: ./images/matplotlib_annotating_plots.png  used on inpu
-t line 1421.
+Package pdftex.def Info: ./images/matplotlib_annotating_plots.png  used on input line 1421.
 (pdftex.def)             Requested size: 345.0pt x 258.76335pt.
 
 
@@ -738,20 +673,17 @@ Underfull \hbox (badness 10000) in paragraph at lines 1433--1434
 
  []
 
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 1439
-.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 1439.
 (/usr/share/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 1439.
-
  [30 <./images/matplotlib_annotating_plots.png>]
 <./images/matplotlib_axis_scale.png, id=118, 462.528pt x 346.896pt>
 File: ./images/matplotlib_axis_scale.png Graphic file (type png)
 <use ./images/matplotlib_axis_scale.png>
-Package pdftex.def Info: ./images/matplotlib_axis_scale.png  used on input line
- 1480.
+Package pdftex.def Info: ./images/matplotlib_axis_scale.png  used on input line 1480.
 (pdftex.def)             Requested size: 345.0178pt x 227.62346pt.
  [31 <./images/matplotlib_axis_scale.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 1497--1498
@@ -767,8 +699,7 @@ Package pdftex.def Info: ./images/matplotlib_img.png  used on input line 1551.
 <./images/matplotlib_col_bar.png, id=128, 462.528pt x 346.896pt>
 File: ./images/matplotlib_col_bar.png Graphic file (type png)
 <use ./images/matplotlib_col_bar.png>
-Package pdftex.def Info: ./images/matplotlib_col_bar.png  used on input line 15
-71.
+Package pdftex.def Info: ./images/matplotlib_col_bar.png  used on input line 1571.
 (pdftex.def)             Requested size: 241.49895pt x 181.12799pt.
 
 Underfull \hbox (badness 10000) in paragraph at lines 1580--1581
@@ -777,21 +708,18 @@ Underfull \hbox (badness 10000) in paragraph at lines 1580--1581
 
 [33 <./images/matplotlib_img.png> <./images/matplotlib_col_bar.png>]
 Overfull \hbox (14.09583pt too wide) in paragraph at lines 1582--1583
-[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
-][][][][][][][][][][][][][][][]
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]
  []
 
 <./images/matplotlib_exm_img.png, id=134, 462.528pt x 346.896pt>
 File: ./images/matplotlib_exm_img.png Graphic file (type png)
 <use ./images/matplotlib_exm_img.png>
-Package pdftex.def Info: ./images/matplotlib_exm_img.png  used on input line 15
-97.
+Package pdftex.def Info: ./images/matplotlib_exm_img.png  used on input line 1597.
 (pdftex.def)             Requested size: 241.49895pt x 181.12799pt.
 <./images/matplotlib_ceil_img.png, id=135, 462.528pt x 346.896pt>
 File: ./images/matplotlib_ceil_img.png Graphic file (type png)
 <use ./images/matplotlib_ceil_img.png>
-Package pdftex.def Info: ./images/matplotlib_ceil_img.png  used on input line 1
-613.
+Package pdftex.def Info: ./images/matplotlib_ceil_img.png  used on input line 1613.
 (pdftex.def)             Requested size: 241.49895pt x 181.12799pt.
 [34 <./images/matplotlib_exm_img.png>] [35 <./images/matplotlib_ceil_img.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 1625--1626
@@ -858,7 +786,6 @@ Underfull \hbox (badness 10000) in paragraph at lines 1777--1778
 File: ./images/opencv_inv_cols.png Graphic file (type png)
 <use ./images/opencv_inv_cols.png>
 Package pdftex.def Info: ./images/opencv_inv_cols.png  used on input line 1804.
-
 (pdftex.def)             Requested size: 345.0pt x 258.76335pt.
  [39 <./images/opencv_inv_cols.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 1820--1821
@@ -867,7 +794,6 @@ Underfull \hbox (badness 10000) in paragraph at lines 1820--1821
 
 LaTeX Font Info:    Font shape `OT1/cmtt/bx/n' in size <9> not available
 (Font)              Font shape `OT1/cmtt/m/n' tried instead on input line 1852.
-
 
 Underfull \hbox (badness 10000) in paragraph at lines 1858--1859
 
@@ -997,11 +923,9 @@ Package pdftex.def Info: ./images/opencv_lines.png  used on input line 2069.
 <./images/computer_graphics.png, id=175, 360.60495pt x 114.73795pt>
 File: ./images/computer_graphics.png Graphic file (type png)
 <use ./images/computer_graphics.png>
-Package pdftex.def Info: ./images/computer_graphics.png  used on input line 208
-3.
+Package pdftex.def Info: ./images/computer_graphics.png  used on input line 2083.
 (pdftex.def)             Requested size: 286.35063pt x 91.11293pt.
- [44 <./images/opencv_lines.png (PNG copy)> <./images/computer_graphics.png (PN
-G copy)>]
+ [44 <./images/opencv_lines.png (PNG copy)> <./images/computer_graphics.png (PNG copy)>]
 <./images/opencv_rect.png, id=179, 513.92pt x 513.92pt>
 File: ./images/opencv_rect.png Graphic file (type png)
 <use ./images/opencv_rect.png>
@@ -1009,8 +933,7 @@ Package pdftex.def Info: ./images/opencv_rect.png  used on input line 2103.
 (pdftex.def)             Requested size: 172.5pt x 172.50342pt.
 
 Overfull \hbox (14.09583pt too wide) in paragraph at lines 2126--2127
-[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
-][][][][][][][][][][][]
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]
  []
 
 <./images/opencv_elip.png, id=180, 513.92pt x 513.92pt>
@@ -1025,17 +948,14 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 <./images/opencv_polylines.png, id=184, 513.92pt x 513.92pt>
 File: ./images/opencv_polylines.png Graphic file (type png)
 <use ./images/opencv_polylines.png>
-Package pdftex.def Info: ./images/opencv_polylines.png  used on input line 2156
-.
+Package pdftex.def Info: ./images/opencv_polylines.png  used on input line 2156.
 (pdftex.def)             Requested size: 172.5pt x 172.50342pt.
 
 Overfull \hbox (4.64594pt too wide) in paragraph at lines 2165--2166
-[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
-][][][][][][][][][][][]
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]
  []
 
-[46 <./images/opencv_elip.png (PNG copy)> <./images/opencv_polylines.png (PNG c
-opy)>]
+[46 <./images/opencv_elip.png (PNG copy)> <./images/opencv_polylines.png (PNG copy)>]
 <./images/opencv_text.png, id=188, 513.92pt x 513.92pt>
 File: ./images/opencv_text.png Graphic file (type png)
 <use ./images/opencv_text.png>
@@ -1053,8 +973,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 2184--2185
 
 
 Overfull \hbox (14.09583pt too wide) in paragraph at lines 2186--2187
-[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
-][][][]
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]
  []
 
 
@@ -1222,7 +1141,6 @@ Underfull \hbox (badness 10000) in paragraph at lines 2537--2538
 File: ./images/ocv_subtraction.png Graphic file (type png)
 <use ./images/ocv_subtraction.png>
 Package pdftex.def Info: ./images/ocv_subtraction.png  used on input line 2553.
-
 (pdftex.def)             Requested size: 345.0pt x 115.00137pt.
 
 Underfull \hbox (badness 10000) in paragraph at lines 2573--2574
@@ -1233,8 +1151,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 2573--2574
 <./images/ocv_multiplication.png, id=225, 650.43pt x 216.81pt>
 File: ./images/ocv_multiplication.png Graphic file (type png)
 <use ./images/ocv_multiplication.png>
-Package pdftex.def Info: ./images/ocv_multiplication.png  used on input line 25
-86.
+Package pdftex.def Info: ./images/ocv_multiplication.png  used on input line 2586.
 (pdftex.def)             Requested size: 345.0pt x 115.00137pt.
 
 Underfull \hbox (badness 10000) in paragraph at lines 2607--2608
@@ -1314,8 +1231,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 2901--2902
 <./images/ocv_ith_adaptive.png, id=263, 650.43pt x 216.81pt>
 File: ./images/ocv_ith_adaptive.png Graphic file (type png)
 <use ./images/ocv_ith_adaptive.png>
-Package pdftex.def Info: ./images/ocv_ith_adaptive.png  used on input line 2918
-.
+Package pdftex.def Info: ./images/ocv_ith_adaptive.png  used on input line 2918.
 (pdftex.def)             Requested size: 345.0pt x 115.00137pt.
  [63 <./images/ocv_ith_adaptive.png>]
 <./images/ocv_otsu.png, id=269, 650.43pt x 216.81pt>
@@ -1365,9 +1281,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 3099--3100
 
 [66]
 Overfull \hbox (17.58386pt too wide) in paragraph at lines 3138--3139
-[]\OT1/cmr/m/n/10 The cen-tral point $150$ is un-rep-re-sen-ta-tive of the sur-
-round-ing pix-els: $115\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 119\OML/cmm/m/it/10 ;
- \OT1/cmr/m/n/10 120\OML/cmm/m/it/10 ; [] 
+[]\OT1/cmr/m/n/10 The cen-tral point $150$ is un-rep-re-sen-ta-tive of the sur-round-ing pix-els: $115\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 119\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 120\OML/cmm/m/it/10 ; [] 
  []
 
 
@@ -1392,6 +1306,10 @@ File: ./images/plot_2dnorm.png Graphic file (type png)
 Package pdftex.def Info: ./images/plot_2dnorm.png  used on input line 3165.
 (pdftex.def)             Requested size: 207.0021pt x 132.80379pt.
  [68 <./images/plot_2dnorm.png>]
+
+LaTeX Warning: Citation 'bilateral_filtering' on page 69 undefined on input line 3210.
+
+
 Underfull \hbox (badness 10000) in paragraph at lines 3238--3239
 
  []
@@ -1409,8 +1327,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 3248--3249
 <./images/bilat_filt_coeffs.png, id=291, 508.90125pt x 291.31516pt>
 File: ./images/bilat_filt_coeffs.png Graphic file (type png)
 <use ./images/bilat_filt_coeffs.png>
-Package pdftex.def Info: ./images/bilat_filt_coeffs.png  used on input line 326
-0.
+Package pdftex.def Info: ./images/bilat_filt_coeffs.png  used on input line 3260.
 (pdftex.def)             Requested size: 345.0pt x 197.50047pt.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
@@ -1419,38 +1336,31 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 <./images/bilat_filt_effect.png, id=295, 514.92375pt x 175.83217pt>
 File: ./images/bilat_filt_effect.png Graphic file (type png)
 <use ./images/bilat_filt_effect.png>
-Package pdftex.def Info: ./images/bilat_filt_effect.png  used on input line 327
-2.
+Package pdftex.def Info: ./images/bilat_filt_effect.png  used on input line 3272.
 (pdftex.def)             Requested size: 345.0pt x 117.80962pt.
- [70 <./images/bilat_filt_coeffs.png (PNG copy)> <./images/bilat_filt_effect.pn
-g (PNG copy)>]
+ [70 <./images/bilat_filt_coeffs.png (PNG copy)> <./images/bilat_filt_effect.png (PNG copy)>]
 <./images/ocv_mean_filtering.png, id=299, 650.43pt x 216.81pt>
 File: ./images/ocv_mean_filtering.png Graphic file (type png)
 <use ./images/ocv_mean_filtering.png>
-Package pdftex.def Info: ./images/ocv_mean_filtering.png  used on input line 32
-97.
+Package pdftex.def Info: ./images/ocv_mean_filtering.png  used on input line 3297.
 (pdftex.def)             Requested size: 345.0pt x 115.00137pt.
 <./images/ocv_median_filtering.png, id=300, 650.43pt x 216.81pt>
 File: ./images/ocv_median_filtering.png Graphic file (type png)
 <use ./images/ocv_median_filtering.png>
-Package pdftex.def Info: ./images/ocv_median_filtering.png  used on input line 
-3313.
+Package pdftex.def Info: ./images/ocv_median_filtering.png  used on input line 3313.
 (pdftex.def)             Requested size: 345.0pt x 115.00137pt.
  [71 <./images/ocv_mean_filtering.png> <./images/ocv_median_filtering.png>]
 <./images/ocv_gaussian_filtering.png, id=306, 650.43pt x 216.81pt>
 File: ./images/ocv_gaussian_filtering.png Graphic file (type png)
 <use ./images/ocv_gaussian_filtering.png>
-Package pdftex.def Info: ./images/ocv_gaussian_filtering.png  used on input lin
-e 3333.
+Package pdftex.def Info: ./images/ocv_gaussian_filtering.png  used on input line 3333.
 (pdftex.def)             Requested size: 345.0pt x 115.00137pt.
 <./images/ocv_bilateral_filtering.png, id=307, 650.43pt x 216.81pt>
 File: ./images/ocv_bilateral_filtering.png Graphic file (type png)
 <use ./images/ocv_bilateral_filtering.png>
-Package pdftex.def Info: ./images/ocv_bilateral_filtering.png  used on input li
-ne 3349.
+Package pdftex.def Info: ./images/ocv_bilateral_filtering.png  used on input line 3349.
 (pdftex.def)             Requested size: 345.0pt x 115.00137pt.
- [72 <./images/ocv_gaussian_filtering.png> <./images/ocv_bilateral_filtering.pn
-g>]
+ [72 <./images/ocv_gaussian_filtering.png> <./images/ocv_bilateral_filtering.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 3366--3367
 
  []
@@ -1494,7 +1404,6 @@ Underfull \hbox (badness 10000) in paragraph at lines 3510--3511
 File: ./images/ocv_gt_rotation.png Graphic file (type png)
 <use ./images/ocv_gt_rotation.png>
 Package pdftex.def Info: ./images/ocv_gt_rotation.png  used on input line 3524.
-
 (pdftex.def)             Requested size: 345.0pt x 115.00137pt.
 [75 <./images/ocv_gt_rotation.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 3561--3562
@@ -1504,8 +1413,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 3561--3562
 <./images/ocv_gt_translation.png, id=325, 650.43pt x 216.81pt>
 File: ./images/ocv_gt_translation.png Graphic file (type png)
 <use ./images/ocv_gt_translation.png>
-Package pdftex.def Info: ./images/ocv_gt_translation.png  used on input line 35
-73.
+Package pdftex.def Info: ./images/ocv_gt_translation.png  used on input line 3573.
 (pdftex.def)             Requested size: 345.0pt x 115.00137pt.
 
 Underfull \hbox (badness 10000) in paragraph at lines 3582--3583
@@ -1647,15 +1555,13 @@ Package pdftex.def Info: ./images/ocv_sobel.png  used on input line 4104.
 <./images/laplace_first_derv.png, id=377, 501.875pt x 167.62625pt>
 File: ./images/laplace_first_derv.png Graphic file (type png)
 <use ./images/laplace_first_derv.png>
-Package pdftex.def Info: ./images/laplace_first_derv.png  used on input line 41
-34.
+Package pdftex.def Info: ./images/laplace_first_derv.png  used on input line 4134.
 (pdftex.def)             Requested size: 345.0pt x 115.23508pt.
  [87 <./images/ocv_sobel.png> <./images/laplace_first_derv.png>]
 <./images/laplace_sec_derv.png, id=383, 301.125pt x 222.8325pt>
 File: ./images/laplace_sec_derv.png Graphic file (type png)
 <use ./images/laplace_sec_derv.png>
-Package pdftex.def Info: ./images/laplace_sec_derv.png  used on input line 4143
-.
+Package pdftex.def Info: ./images/laplace_sec_derv.png  used on input line 4143.
 (pdftex.def)             Requested size: 172.5pt x 127.65506pt.
 <./images/ocv_laplace.png, id=384, 650.43pt x 216.81pt>
 File: ./images/ocv_laplace.png Graphic file (type png)
@@ -1693,7 +1599,6 @@ Package pdftex.def Info: ./images/hough_line.png  used on input line 4263.
 File: ./images/hough_line_mult.png Graphic file (type png)
 <use ./images/hough_line_mult.png>
 Package pdftex.def Info: ./images/hough_line_mult.png  used on input line 4272.
-
 (pdftex.def)             Requested size: 172.5pt x 112.12944pt.
 
 Underfull \hbox (badness 10000) in paragraph at lines 4277--4278
@@ -1712,8 +1617,7 @@ Package pdftex.def Info: ./images/ocv_hlt.png  used on input line 4324.
 (pdftex.def)             Requested size: 345.0pt x 115.00137pt.
 [92]
 Overfull \hbox (9.37088pt too wide) in paragraph at lines 4352--4353
-[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
-][][][][][]
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]
  []
 
 
@@ -1732,39 +1636,32 @@ File: ./images/ocv_hough_circ.png Graphic file (type png)
 <use ./images/ocv_hough_circ.png>
 Package pdftex.def Info: ./images/ocv_hough_circ.png  used on input line 4383.
 (pdftex.def)             Requested size: 345.0pt x 115.00137pt.
- [94 <./images/ocv_hough_circ.png>] [95]
-(/home/michael/Documents/Notes/OpenCV/opencv_documentation_notes.aux)
+ [94 <./images/ocv_hough_circ.png>] [95] (./opencv_documentation_notes.aux)
+
+LaTeX Warning: There were undefined references.
+
 
 LaTeX Warning: There were multiply-defined labels.
+
+
+Package biblatex Warning: Please (re)run Biber on the file:
+(biblatex)                opencv_documentation_notes
+(biblatex)                and rerun LaTeX afterwards.
 
 Package logreq Info: Writing requests to 'opencv_documentation_notes.run.xml'.
 \openout1 = `opencv_documentation_notes.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 12623 strings out of 492623
- 206565 string characters out of 6135669
- 750844 words of memory out of 5000000
- 16343 multiletter control sequences out of 15000+600000
+ 12607 strings out of 492623
+ 205685 string characters out of 6135669
+ 749944 words of memory out of 5000000
+ 16328 multiletter control sequences out of 15000+600000
  12932 words of font info for 50 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 35i,22n,51p,1102b,1745s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/
-texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texmf-dist/fon
-ts/type1/public/amsfonts/cm/cmbx8.pfb></usr/share/texmf-dist/fonts/type1/public
-/amsfonts/cm/cmex10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/c
-mmi10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi5.pfb></usr
-/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/share/texmf-di
-st/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texmf-dist/fonts/type1/
-public/amsfonts/cm/cmr17.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts
-/cm/cmr5.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></u
-sr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texmf
--dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/share/texmf-dist/fonts/typ
-e1/public/amsfonts/cm/cmti10.pfb></usr/share/texmf-dist/fonts/type1/public/amsf
-onts/cm/cmtt9.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/symbols/ms
-am10.pfb>
-Output written on /home/michael/Documents/Notes/OpenCV/opencv_documentation_not
-es.pdf (95 pages, 3156608 bytes).
+ 35i,22n,51p,1069b,1745s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx8.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi5.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt9.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb>
+Output written on opencv_documentation_notes.pdf (95 pages, 3156697 bytes).
 PDF statistics:
  475 PDF objects out of 1000 (max. 8388607)
  260 compressed objects within 3 object streams
