@@ -31,4 +31,8 @@ Further information on various topics can be found at
 
 http://homepages.inf.ed.ac.uk/rbf/HIPR2/hipr_top.htm
 
+## TODO
+
+- [ ] Major cleanup of TeX: Chapters, Shorthand, Packages
+- [ ] Code Examples cleanup
 
